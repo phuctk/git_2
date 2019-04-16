@@ -14,7 +14,8 @@ interface HocInterface{
 		
 	}
 	public default int div() {
-		return x/y;
+		return x/y; // Tra ve x/y
+
 	}
 
 }
